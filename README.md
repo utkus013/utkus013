@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**utkus013/utkus013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I am Utku.
+I am 14 and currently a student in Turkey. 
+When I graduate, I want to be a software developer or computer engineer.
+So I started to learn C/C++ and looking forward to learning other programming languages.
+You can reach me using:
+E-mail: utkusenturk123@hotmail.com
+Discord: utkusenturk
+Instagram: utk.snturk
+Unless I am out of city, I will answer within a day.
+You can ask me anything and I'll provide as much information as possible.
